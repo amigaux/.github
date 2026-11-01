@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/amigaux/amix/discussions
+    about: Ask a question or share an idea in Discussions.
+  - name: Install guides and downloads
+    url: https://amigaux.org
+    about: Downloads, install guides and the supported hardware are on amigaux.org.
